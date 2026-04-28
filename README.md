@@ -15,7 +15,7 @@ developed by sususoftware.xyz
 
 ---
 
-## features
+## features''
 
 - bulk checking from a combo file (email:password)
 - detects valid, invalid, and 2fa-protected accounts
